@@ -13,7 +13,7 @@ Package Interface:
 Contiene interface Asesoria, en donde se declara método AnalizarUsuario.
 
 Package Container:
-Corresponde a la ejecución del proyecto. Su clase principal es container que posee métodos de validación y mensaje inicial. El resto de las clases incluyen los métodos para almacenar y mostrar los usuarios y capacitaciones.
+Corresponde a la ejecución del proyecto. Su clase principal es container que posee métodos de validación. El resto de las clases incluyen los métodos para almacenar y mostrar los usuarios y capacitaciones.
 
 Package SPRINT_JAVA:
 Contiene la clase principal, la cual lalmaa los métodos de ejecución y despliega el menú. 
